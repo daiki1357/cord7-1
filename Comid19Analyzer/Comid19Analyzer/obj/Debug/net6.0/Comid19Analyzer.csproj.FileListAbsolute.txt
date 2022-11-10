@@ -1,0 +1,17 @@
+D:\git\Cord07\Comid19Analyzer\Comid19Analyzer\bin\Debug\net6.0\Comid19Analyzer.exe
+D:\git\Cord07\Comid19Analyzer\Comid19Analyzer\bin\Debug\net6.0\Comid19Analyzer.deps.json
+D:\git\Cord07\Comid19Analyzer\Comid19Analyzer\bin\Debug\net6.0\Comid19Analyzer.runtimeconfig.json
+D:\git\Cord07\Comid19Analyzer\Comid19Analyzer\bin\Debug\net6.0\Comid19Analyzer.dll
+D:\git\Cord07\Comid19Analyzer\Comid19Analyzer\bin\Debug\net6.0\Comid19Analyzer.pdb
+D:\git\Cord07\Comid19Analyzer\Comid19Analyzer\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\git\Cord07\Comid19Analyzer\Comid19Analyzer\obj\Debug\net6.0\Comid19Analyzer.csproj.AssemblyReference.cache
+D:\git\Cord07\Comid19Analyzer\Comid19Analyzer\obj\Debug\net6.0\Comid19Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Cord07\Comid19Analyzer\Comid19Analyzer\obj\Debug\net6.0\Comid19Analyzer.AssemblyInfoInputs.cache
+D:\git\Cord07\Comid19Analyzer\Comid19Analyzer\obj\Debug\net6.0\Comid19Analyzer.AssemblyInfo.cs
+D:\git\Cord07\Comid19Analyzer\Comid19Analyzer\obj\Debug\net6.0\Comid19Analyzer.csproj.CoreCompileInputs.cache
+D:\git\Cord07\Comid19Analyzer\Comid19Analyzer\obj\Debug\net6.0\Comid19Analyzer.csproj.CopyComplete
+D:\git\Cord07\Comid19Analyzer\Comid19Analyzer\obj\Debug\net6.0\Comid19Analyzer.dll
+D:\git\Cord07\Comid19Analyzer\Comid19Analyzer\obj\Debug\net6.0\refint\Comid19Analyzer.dll
+D:\git\Cord07\Comid19Analyzer\Comid19Analyzer\obj\Debug\net6.0\Comid19Analyzer.pdb
+D:\git\Cord07\Comid19Analyzer\Comid19Analyzer\obj\Debug\net6.0\Comid19Analyzer.genruntimeconfig.cache
+D:\git\Cord07\Comid19Analyzer\Comid19Analyzer\obj\Debug\net6.0\ref\Comid19Analyzer.dll

@@ -1,0 +1,15 @@
+D:\git\Cord07\cord07\SampleCode07\SampleCode07\bin\Debug\net6.0\SampleCode07.exe
+D:\git\Cord07\cord07\SampleCode07\SampleCode07\bin\Debug\net6.0\SampleCode07.deps.json
+D:\git\Cord07\cord07\SampleCode07\SampleCode07\bin\Debug\net6.0\SampleCode07.runtimeconfig.json
+D:\git\Cord07\cord07\SampleCode07\SampleCode07\bin\Debug\net6.0\SampleCode07.dll
+D:\git\Cord07\cord07\SampleCode07\SampleCode07\bin\Debug\net6.0\SampleCode07.pdb
+D:\git\Cord07\cord07\SampleCode07\SampleCode07\obj\Debug\net6.0\SampleCode07.csproj.AssemblyReference.cache
+D:\git\Cord07\cord07\SampleCode07\SampleCode07\obj\Debug\net6.0\SampleCode07.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Cord07\cord07\SampleCode07\SampleCode07\obj\Debug\net6.0\SampleCode07.AssemblyInfoInputs.cache
+D:\git\Cord07\cord07\SampleCode07\SampleCode07\obj\Debug\net6.0\SampleCode07.AssemblyInfo.cs
+D:\git\Cord07\cord07\SampleCode07\SampleCode07\obj\Debug\net6.0\SampleCode07.csproj.CoreCompileInputs.cache
+D:\git\Cord07\cord07\SampleCode07\SampleCode07\obj\Debug\net6.0\SampleCode07.dll
+D:\git\Cord07\cord07\SampleCode07\SampleCode07\obj\Debug\net6.0\refint\SampleCode07.dll
+D:\git\Cord07\cord07\SampleCode07\SampleCode07\obj\Debug\net6.0\SampleCode07.pdb
+D:\git\Cord07\cord07\SampleCode07\SampleCode07\obj\Debug\net6.0\SampleCode07.genruntimeconfig.cache
+D:\git\Cord07\cord07\SampleCode07\SampleCode07\obj\Debug\net6.0\ref\SampleCode07.dll
